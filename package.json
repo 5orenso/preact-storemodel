@@ -1,7 +1,7 @@
 {
   "name": "preact-storemodel",
   "description": "A nice boilerplate with unit tests, linting and code coverage.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "homepage": "https://github.com/5orenso/preact-storemodel",
   "repository": {
     "type": "git",
@@ -36,7 +36,8 @@
   },
   "keywords": [],
   "dependencies": {
-    "mobx": "^5.15.4"
+    "mobx": "^5.15.4",
+    "preact-util": "^1.0.0"
   },
   "jest": {
     "verbose": true,
