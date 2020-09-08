@@ -37,7 +37,7 @@
   "keywords": [],
   "dependencies": {
     "mobx": "^5.15.4",
-    "preact-util": "^1.2.1"
+    "preact-util": "^1.4.6"
   },
   "jest": {
     "verbose": true,
